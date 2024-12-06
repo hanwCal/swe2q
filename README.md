@@ -70,8 +70,8 @@ Below are the visualizations generated from the evaluation process:
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/hanwCal/swe2q
+   cd swe2q
    ```
 
 2. Install the required dependencies:
